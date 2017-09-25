@@ -27,6 +27,7 @@
  *     TRIDENT_SERVER=https://trident.example.net
  *
  * Acceptable command line options can be requested with -help
+ * some license ought to be selected here as well.
  */
 
 package main
