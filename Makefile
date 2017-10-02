@@ -8,7 +8,7 @@ endif
 
 # Pull correct branches for PF from local files.
 PF_GIT_BRANCH = master
-PF_GIT_REPO = https://github.com/tridentli/pitchfork.git
+PF_GIT_REPO = https://github.com/morrowc/pitchfork.git
 
 # dpkg-buildpackage calls make, so <all> should be empty.
 all:
